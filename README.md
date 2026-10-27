@@ -1,49 +1,24 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Benjamín Basurto — Estudiante de Ingeniería de Software" />
+  <img src="assets/banner.svg" width="100%" alt="Benjamín Basurto — estudiante de Ingeniería de Software" />
 </div>
 
-### Sobre mí
+### Hola, soy Benjamín 👋
 
-Soy **Benjamín Basurto**, estudiante de **Ingeniería de Software** en la **Universidad Técnica de Ambato, Ecuador**. Me gusta convertir ideas en proyectos reales y explorar nuevas formas de crear con tecnología.
+Estudio **Ingeniería de Software en la Universidad Técnica de Ambato**. Disfruto crear proyectos, aprender nuevas herramientas y explorar el desarrollo web, la inteligencia artificial y los videojuegos.
 
-Me interesan especialmente el **desarrollo web**, la **inteligencia artificial**, los **videojuegos** y la innovación. Actualmente sigo desarrollando mis habilidades mediante proyectos académicos y personales.
+### Tecnologías
 
-### Tecnologías y herramientas
+**Trabajo con:** Java · Python · MySQL · Git · GitHub
 
-**Con las que trabajo**
-
-<img src="https://skillicons.dev/icons?i=java,py,mysql,git,github,vscode&theme=dark" alt="Java, Python, MySQL, Git, GitHub y Visual Studio Code" />
-
-Java · Python · MySQL · Git · GitHub · Visual Studio Code · NetBeans
-
-**Actualmente aprendiendo**
-
-<img src="https://skillicons.dev/icons?i=js,html,css,php,bootstrap,react&theme=dark" alt="JavaScript, HTML, CSS, PHP, Bootstrap y React" />
-
-JavaScript · HTML · CSS · PHP · SQL · Bootstrap · jQuery · React
-
-### Actividad en GitHub
-
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=99benjaminb&show_icons=true&hide_border=true&bg_color=0d182b&title_color=8db9ff&icon_color=60a5fa&text_color=c8d6eb&locale=es" alt="Estadísticas de GitHub" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=99benjaminb&layout=compact&hide_border=true&bg_color=0d182b&title_color=8db9ff&text_color=c8d6eb&locale=es" alt="Lenguajes utilizados en repositorios públicos" />
-</div>
-
-<sub>Las estadísticas se basan en la actividad disponible públicamente; no indican por sí solas el nivel de experiencia.</sub>
-
-### Mi página web
-
-[**Visitar mi portafolio en GitHub Pages ↗**](https://99benjaminb.github.io/)
-
-Sitio web personal desarrollado con HTML y CSS.
+**Estoy aprendiendo:** JavaScript · HTML · CSS · React y otras tecnologías web.
 
 ### Proyectos
 
-- **[EduMonitor AI](https://github.com/GabrielRojas20/-EduMonitor-AI)** — proyecto académico colaborativo de software educativo.
-- **[Mis repositorios](https://github.com/99benjaminb?tab=repositories)** — ejercicios, prácticas y proyectos en desarrollo.
+- 🌐 **[Mi portafolio web](https://99benjaminb.github.io/)** — sitio personal desarrollado con HTML y CSS. [Código fuente](https://github.com/99benjaminb/99benjaminb.github.io).
+- 🎓 **[EduMonitor AI](https://github.com/GabrielRojas20/-EduMonitor-AI)** — proyecto universitario colaborativo de software educativo.
 
----
+### Actividad en GitHub
 
-<div align="center">
-  <strong>Siempre aprendiendo. Siempre construyendo.</strong>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=99benjaminb&show_icons=true&hide_border=true&bg_color=0b1423&title_color=a4c7f9&icon_color=79adff&text_color=c5d3e9&locale=es" height="155" alt="Resumen de actividad pública en GitHub" />
+
+<sub>También puedes ver mis contribuciones y repositorios directamente en este perfil.</sub>
