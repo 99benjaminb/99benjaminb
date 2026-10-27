@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="240" viewBox="0 0 560 240" role="img" aria-label="EduMonitor AI: proyecto universitario colaborativo">
+<defs><linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1830"/><stop offset="1" stop-color="#153D6A"/></linearGradient><linearGradient id="grad1" x1="0" x2="1"><stop stop-color="#76B8FF"/><stop offset="1" stop-color="#C9E5FF"/></linearGradient><clipPath id="c1"><rect width="560" height="240" rx="18"/></clipPath></defs>
+<g clip-path="url(#c1)">
+<rect width="560" height="240" fill="url(#bg1)"/>
+<circle cx="498" cy="124" r="130" fill="#3B82F6" opacity=".08"/>
+<path d="M250 266Q359 23 590 43" fill="none" stroke="#A9D5FF" stroke-opacity=".14"/>
+<rect x="30" y="28" width="124" height="26" rx="13" fill="#9DC8FF" fill-opacity=".1" stroke="#91BDF1" stroke-opacity=".28"/>
+<text x="92" y="45" text-anchor="middle" font-size="10" letter-spacing="1.6" font-family="Arial" fill="#BBD8FC">PROYECTO 01</text>
+<text x="29" y="106" font-family="Arial,Helvetica,sans-serif" font-size="37" font-weight="700" letter-spacing="-1.5" fill="#FAFCFF">EduMonitor <tspan fill="url(#grad1)">AI</tspan></text>
+<text x="31" y="138" font-family="Arial" font-size="15" fill="#C0D2E9">Plataforma educativa</text>
+<text x="31" y="168" font-family="Arial" font-size="13" fill="#8FB8E6">Trabajo colaborativo · Universidad</text>
+<rect x="31" y="188" width="169" height="28" rx="14" fill="#7CB8FF" fill-opacity=".14" stroke="#94C9FF" stroke-opacity=".26"/>
+<text x="115" y="206" text-anchor="middle" font-family="Arial" font-size="11" font-weight="600" fill="#D2E6FF">VER EN GITHUB ↗</text>
+<g transform="translate(375 39)">
+ <rect x="7" y="7" width="133" height="160" rx="14" fill="#0A162B" stroke="#96C7FF" stroke-opacity=".28"/>
+ <rect x="22" y="27" width="103" height="20" rx="6" fill="#244970"/>
+ <rect x="22" y="57" width="103" height="43" rx="8" fill="#193A64"/>
+ <circle cx="42" cy="78" r="10" fill="#7CB8FF" fill-opacity=".65"/>
+ <path d="M57 71H112 M57 82H98 M22 114H124 M22 127H111 M22 140H118" stroke="#A3CFFF" stroke-opacity=".53" stroke-width="4" stroke-linecap="round"/>
+ <rect x="-19" y="45" width="38" height="38" rx="11" fill="#244E7A" stroke="#88BCFC" stroke-opacity=".42"/>
+ <path d="M-8 57h16v13H-8z M-5 73h10" stroke="#C4E2FF" stroke-width="2" fill="none" stroke-linecap="round"/>
+</g>
+</g></svg>
