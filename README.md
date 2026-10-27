@@ -31,6 +31,12 @@ JavaScript · HTML · CSS · PHP · SQL · Bootstrap · jQuery · React
 
 <sub>Las estadísticas se basan en la actividad disponible públicamente; no indican por sí solas el nivel de experiencia.</sub>
 
+### Mi página web
+
+[**Visitar mi portafolio en GitHub Pages ↗**](https://99benjaminb.github.io/)
+
+Sitio web personal desarrollado con HTML y CSS.
+
 ### Proyectos
 
 - **[EduMonitor AI](https://github.com/GabrielRojas20/-EduMonitor-AI)** — proyecto académico colaborativo de software educativo.
